@@ -1,0 +1,50 @@
+{
+  "general": {
+    "dynamicoreaddition": true,
+    "blacklistedores": [
+      "minecraft:ore_gold_deltas",
+      "minecraft:ore_infested",
+      "minecraft:ore_magma",
+      "minecraft:ore_gravel",
+      "minecraft:ore_soul_sand",
+      "minecraft:ore_gold_extra",
+      "minecraft:ore_quartz_nether",
+      "minecraft:ore_gold_nether",
+      "minecraft:ore_quartz_deltas",
+      "minecraft:ore_gravel_nether",
+      "minecraft:ore_dirt",
+      "minecraft:ore_blackstone",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_clay",
+      "tropicraft:.*",
+      "bigreactors:.*",
+      "railcraft:lead_ore",
+      "railcraft:silver_ore_buried",
+      "railcraft:silver_ore",
+      "railcraft:tin_ore_large",
+      "railcraft:tin_ore_small",
+      "railcraft:zinc_ore",
+      "railcraft:deepslate_silver_ore",
+      "aethersteel:.*",
+      "aether:.*",
+      "twilightforest:.*",
+      "growthcraft:.*",
+      "ad_astra:.*",
+      "aethersteel:.*",
+      "aether:.*",
+      "rats:.*"
+    ],
+    "additionalores": [
+      "mekanism:ore_tin_small",
+      "mekanism:ore_tin_large",
+      "mekanism:ore_osmium_upper",
+      "mekanism:ore_osmium_middle",
+      "mekanism:ore_osmium_small",
+      "mekanism:ore_uranium_small",
+      "mekanism:ore_uranium_buried",
+      "mekanism:ore_fluorite_normal",
+      "mekanism:ore_fluorite_buried",
+      "mekanism:ore_lead_normal"
+    ]
+  }
+}
